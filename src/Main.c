@@ -20,7 +20,7 @@ int main(){
     atexit(end);
     begin();
     printf("Main\n");
-    int a = 1 / 0;
+    //int a = 1 / 0;
     //Collector_Main(Main,200);
     return 0;
 }
